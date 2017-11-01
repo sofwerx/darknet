@@ -1,4 +1,9 @@
 
+# need to pip3 install darknetpy
+# run on python3
+
+
+
 from darknetpy.detector import Detector
 
 detector = Detector('dev/darknet',
