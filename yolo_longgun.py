@@ -1,12 +1,9 @@
 
-<<<<<<< HEAD
-=======
+
 # need to pip3 install darknetpy
 # run on python3
 
 
-
->>>>>>> 73eaed1268674cdfc571c9614e74d244134136c2
 from darknetpy.detector import Detector
 
 detector = Detector('dev/darknet',
