@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/pjreddie/data/coco/trainvalno5k.txt
+valid  = data/coco_val_5k.list
+names  = ds/swx.longgun.names
+backup = /home/pjreddie/backup/
+

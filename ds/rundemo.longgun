@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#./dnet.gaps__ detector demo /home/pacific/dev/darknet-gaps/cfg/swx_voc.data /home/pacific/dev/darknet-gaps/cfg/swx-yolo-voc.2.0.cfg ~/training/yolo_training/chen.2017_07.13/swx-yolo-voc_12000.weights -thresh 0.33 
+./dnet.gaps__ detector demo  /home/pacific/dev/darknet-gaps/cfg/swx_longgun.data  /home/pacific/dev/darknet-gaps/cfg/swx-yolo-voc.2.0.cfg /home/pacific/training/yolo_training/longgun.2017_08.23/swx-yolo-voc_18000.weights -thresh 0.33 
+
+
